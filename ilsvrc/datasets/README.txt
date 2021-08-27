@@ -1,0 +1,2 @@
+- Download the (ILSVRC2012) Imagenet training set.
+- Download the (blurred) Imagenet validation set.
